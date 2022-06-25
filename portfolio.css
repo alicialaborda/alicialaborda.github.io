@@ -1,0 +1,31 @@
+H1{
+    color:rgb(212, 25, 72);
+     padding:0px;
+     font-family:;
+     font-size:35pt;
+ }
+ H2{
+     color:rgb(41, 0, 226);
+     padding:0px;
+     font-family:helvetica;
+ }
+ H3{
+     color:rgb(212, 25, 72);
+     padding:0px;
+ }
+ h4{
+     color:rgb(41, 0, 226);
+     padding:0px;
+ }
+
+ body{
+     background-color: lavender;
+     color:rgb(41, 0, 226);
+     font-family:;
+ }
+ 
+ P.dos{
+     color:rgb(41, 0, 226);
+     font-size:12pt;
+     font-family: 'arial';
+ }
