@@ -33,7 +33,11 @@ H1{
 
 
 
+ #lista{
+    list-style: none;
+    }
 
+/*NAVEGACIÓN*/
  #nav{
     height:10%;
     background-color: lavenderblush;
