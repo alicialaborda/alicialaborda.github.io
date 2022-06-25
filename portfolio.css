@@ -29,3 +29,14 @@ H1{
      font-size:12pt;
      font-family: 'arial';
  }
+
+
+
+
+
+ #nav{
+    height:10%;
+    background-color: lavenderblush;
+    border-radius:1em;
+    margin:1em;
+}
