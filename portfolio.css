@@ -86,7 +86,9 @@ nav ul li{
 
 #footer{
    
-    height:1200px;
+   position:absolute;
+    top:1200px;
+    left:10px;
     background-color:rgba(230, 230, 250, 0.63);
     margin:1em;
     border-radius:1em;
