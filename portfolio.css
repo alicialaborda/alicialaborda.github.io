@@ -80,7 +80,7 @@ nav ul{
 }
 
 nav ul li{
-    float: left;
+    float: center;
     padding:35px 35px;
 }
 
