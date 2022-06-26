@@ -83,3 +83,13 @@ nav ul li{
     float: left;
     padding:35px 35px;
 }
+
+#footer{
+    height:20%;
+    background-color:rgba(230, 230, 250, 0.63);
+    margin:1em;
+    border-radius:1em;
+    font-family: montserrat-regular;
+    color:blue;
+    padding:10px,30px,10px,30px;
+}
