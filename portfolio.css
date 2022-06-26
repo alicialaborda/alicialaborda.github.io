@@ -49,8 +49,8 @@ H1{
 a{
     text-decoration:none;
     color:rgb(49, 49, 250);
-    font-size:12pt;
-    font-family: montserrat-bold;
+    font-size:10pt;
+    font-family: Helvetica;
  }
 
 /* a:hover define el estilo del texto con el enlace cuando pasemos el cursor por encima*/
@@ -61,11 +61,11 @@ a:hover{
 #link{
     text-decoration:none;
     color:rgb(86, 86, 255);
-    font-size:12pt;
+    font-size:10pt;
     font-weight:bolder;
     float: left;
     padding:10px;
-    font-family: Arial;
+    font-family: Helvetica;
     position: relative;
     top: 0.5em;
     left:0.5em;
