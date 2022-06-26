@@ -49,7 +49,7 @@ H1{
 a{
     text-decoration:none;
     color:rgb(49, 49, 250);
-    font-size:18pt;
+    font-size:12pt;
     font-family: montserrat-bold;
  }
 
@@ -61,7 +61,7 @@ a:hover{
 #link{
     text-decoration:none;
     color:rgb(86, 86, 255);
-    font-size:18pt;
+    font-size:12pt;
     font-weight:bolder;
     float: left;
     padding:10px;
