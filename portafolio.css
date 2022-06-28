@@ -59,9 +59,9 @@ li a.active, li a:hover{
 }
 section{
     background: lavenderblush;
-    /*url(fondo.jpg) no-repeat;*/ 
-    background-size: cover;
-    background-position: center center; /*centro el fondo horizontal y verticalmente*/
+    /*url(fondo.jpg) no-repeat;
+    background-size: cover;*/ 
+    /*background-position: center center;*/  /*centro el fondo horizontal y verticalmente*/
     height: calc(100vh - 80px); /*le doy una altura: toda la pantalla menos los 80 px del nav*/
 }
 
