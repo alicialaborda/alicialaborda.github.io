@@ -58,7 +58,7 @@ li a.active, li a:hover{
     display: none; /*oculto el checkbox del menú*/
 }
 section{
-    background: lavenderblush;
+    background: lavender;
     /*url(fondo.jpg) no-repeat;
     background-size: cover;*/ 
     /*background-position: center center;*/  /*centro el fondo horizontal y verticalmente*/
