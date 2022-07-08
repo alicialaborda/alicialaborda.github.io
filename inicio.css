@@ -116,7 +116,8 @@ section{
     }
     li a:hover, li a.active{
         background: none;
-        color: #d41948;
+        color: rgba(255, 0, 38, 0.877);
+        font-weight: 800;
     }
     #check:checked ~ ul{
         left:0; /*cuando el check está activado muestra la lista ul*/
