@@ -31,8 +31,8 @@
   
   .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    grid-auto-rows: minmax(400px, auto);
+    grid-template-columns: repeat(auto-fill, minmax(187.5px, 1fr));
+    grid-auto-rows: minmax(250px, auto);
     gap: 20px;
     padding-top: 50px;
     padding-bottom: 50px;
